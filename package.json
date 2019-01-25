@@ -1,0 +1,12 @@
+{
+  "name": "jsoncomp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jsoncomp.js",
+  "scripts": {
+    "start": "node src/jsoncomp.js",
+    "start-fr": "node src/r53_54_fr.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
