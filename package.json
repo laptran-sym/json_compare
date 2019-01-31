@@ -5,7 +5,8 @@
   "main": "jsoncomp.js",
   "scripts": {
     "start": "node src/jsoncomp.js",
-    "start-fr": "node src/r53_54_fr.js"
+    "start-fr": "node src/r53_54_fr.js",
+    "not-tran": "node src/not_yet_tran.js"
   },
   "author": "",
   "license": "ISC"
